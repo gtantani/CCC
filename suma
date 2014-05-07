@@ -1,0 +1,5 @@
+private main{
+int a,b,suma;
+suma=a+b;
+return suma;
+}
